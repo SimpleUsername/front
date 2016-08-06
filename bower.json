@@ -1,0 +1,11 @@
+{
+  "name": "custom-project",
+  "version": "0.0.1",
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "bootstrap-select": "~1.7.2",
+    "eonasdan-bootstrap-datetimepicker": "~4.14.30",
+    "datatables": "~1.10.7",
+    "fancybox": "master"
+  }
+}
