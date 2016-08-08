@@ -1,4 +1,4 @@
-== Simple guide ==
+== Simple guide for front end automatic packages ==
 
 1) Install node js
 
