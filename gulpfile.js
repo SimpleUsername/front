@@ -36,5 +36,6 @@ gulp.task('css', function() {
 
 });
 
+// Commands which can be run from terminal
 gulp.task('build', ['js','css']);
 gulp.task('default', ['js','css']);
