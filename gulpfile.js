@@ -10,6 +10,7 @@ var plugins = require("gulp-load-plugins")({
 // Define default destination folder
 var dest = 'assets/vendor/';
 
+// Create js task
 gulp.task('js', function() {
 
 	var jsFiles = ['src/js/*'];
@@ -22,6 +23,7 @@ gulp.task('js', function() {
 
 });
 
+// Create css task
 gulp.task('css', function() {
 
 	var cssFiles = ['src/css/*'];
